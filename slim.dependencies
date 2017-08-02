@@ -5,6 +5,26 @@
         "branch": "mm6.0"
     },
     {
+        "repository": "SlimRoms/device_samsung_espresso-common",
+        "target_path": "device/samsung/espresso-common",
+        "branch": "mm6.0"
+    },
+    {
+        "repository": "GT-P3113/device_samsung_omap4-common",
+        "target_path": "device/samsung/omap4-common",
+        "branch": "mm6.0"
+    },
+    {
+        "repository": "SlimRoms/hardware_ti_omap4",
+        "target_path": "hardware/ti/omap4",
+        "branch": "mm6.0"
+    },
+    {
+        "repository": "GT-P3113/proprietary_vendor_samsung",
+        "target_path": "proprietary/vendor/samsung",
+        "branch": "mm6.0"
+    },
+    {
         "repository": "SlimRoms/android_external_stlport",
         "target_path": "external/stlport",
         "branch": "mm6.0"
